@@ -11,7 +11,7 @@ A background image chosen judicously so that fonts will be displayed clearly.
 An image to the left and one to the right aligned with each other and enough space in between that you could add some written comments 
 description etc.
 
-Make all lunks blue and all visited links red.
+Make all links blue and all visited links red.
 
 Create a bulleted list.
 
